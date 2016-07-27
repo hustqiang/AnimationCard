@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/pre-dexed/debug/classes-87cd6aa8f8156094f14d1cdc03e17a1be32066d6.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-5356bad801b6770087257473bacdadddf835db97.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/pre-dexed/debug/classes-58324e34f641a33ff0acd09f350f6311a3d84fd6.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-f59ee5cd2c6a23f25dcc2e58f9200367b9497680.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/pre-dexed/debug/classes-b1614269c59c855ba81c3374dbaae571644e8823.jar" />
+    </item>
+    <item
+        jar="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/zhangqiang/AndroidStudioProjects/AnimationCard/app/build/intermediates/pre-dexed/debug/classes-98de1ebba069b0779c2db5ffc6be91a868dcedc7.jar" />
+    </item>
+
+</items>
